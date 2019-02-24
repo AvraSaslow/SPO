@@ -2,7 +2,8 @@
 
 Facilitates platform for parents to encourage kids to safely bike using an interactive map and leaderboard challenges
 
-Story: ## Inspiration and Design
+## Story:
+## Inspiration and Design
 The Specialized Foundation is heavily invested in increasing accessibility to cycling to aid youth in personal development and education. While they specifically research the effect of cycling with kids who have ADHD, they believe that riding a bike can positively impact anyone's brain.
 
 Thus, it was our goal to create a platform that would encourage kids to ride their bike as a way to develop healthy habits and have fun. SPO specifically creates a cycling relationship between a parent and their child, in which the parent can set bounds on where the child rides, keep track of their location and motivate them to play in the outdoors.
