@@ -1,4 +1,4 @@
-# SPO
+# SPO: Specialized Go
 
 Facilitates platform for parents to encourage kids to safely bike using an interactive map and leaderboard challenges
 
