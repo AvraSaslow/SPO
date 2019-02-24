@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+ xmlns:gx="http://www.google.com/kml/ext/2.2">
+
+<Document>
+  <name>A tour </name>
+  <open>1</open>
+
+  <gx:Tour>
+    <name>Specialized Demo!</name>
+    <gx:Playlist>
+
+<gx:FlyTo>
+  <gx:duration>4.0</gx:duration>
+  <gx:flyToMode>smooth</gx:flyToMode>
+  <LookAt>
+    <longitude>-105.24287456796225</longitude>
+    <latitude>40.010036218138715</latitude>
+    <altitude>100	</altitude>
+    <heading>-27</heading>
+    <tilt>71</tilt>
+    <range>4000.546801</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</gx:FlyTo>
+
+
+<gx:FlyTo>
+  <gx:duration>4.0</gx:duration>
+  <gx:flyToMode>smooth</gx:flyToMode>
+  <LookAt>
+    <longitude>-105.24507597774647</longitude>
+    <latitude>40.01361933871128</latitude>
+    <altitude>10</altitude>
+    <heading>-27</heading>
+    <tilt>71</tilt>
+    <range>2500.546801</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</gx:FlyTo>
+
+
+<gx:FlyTo>
+  <gx:duration>4.0</gx:duration>
+  <gx:flyToMode>smooth</gx:flyToMode>
+  <LookAt>
+    <longitude>-105.23553796646053</longitude>
+    <latitude>40.02001049561219</latitude>
+    <altitude>10</altitude>
+    <heading>-27</heading>
+    <tilt>71</tilt>
+    <range>2500.546801</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</gx:FlyTo>
+
+<gx:FlyTo>
+  <gx:duration>4.0</gx:duration>
+  <gx:flyToMode>smooth</gx:flyToMode>
+  <LookAt>
+    <longitude>-105.23234035371394</longitude>
+    <latitude>40.02254832817447</latitude>
+    <altitude>10</altitude>
+    <heading>-27</heading>
+    <tilt>71</tilt>
+    <range>2200.546801</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</gx:FlyTo>
+
+
+<gx:FlyTo>
+  <gx:duration>4.0</gx:duration>
+  <gx:flyToMode>smooth</gx:flyToMode>
+  <LookAt>
+    <longitude>-105.23148204682917</longitude>
+    <latitude>40.02350138338699</latitude>
+    <altitude>10</altitude>
+    <heading>-27</heading>
+    <tilt>71</tilt>
+    <range>2100.546801</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</gx:FlyTo>
+
+
+<gx:FlyTo>
+  <gx:duration>4.0</gx:duration>
+  <gx:flyToMode>smooth</gx:flyToMode>
+  <LookAt>
+    <longitude>-105.2348457895863</longitude>
+    <latitude>40.02648723029102</latitude>
+    <altitude>10</altitude>
+    <heading>-27</heading>
+    <tilt>71</tilt>
+    <range>2100.546801</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</gx:FlyTo>
+
+
+<gx:FlyTo>
+  <gx:duration>4.0</gx:duration>
+  <gx:flyToMode>smooth</gx:flyToMode>
+  <LookAt>
+    <longitude>-105.23720613351941</longitude>
+    <latitude>40.027933156387284</latitude>
+    <altitude>10</altitude>
+    <heading>-27</heading>
+    <tilt>71</tilt>
+    <range>1500.546801</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</gx:FlyTo>
+
+
+<gx:FlyTo>
+  <gx:duration>6.0</gx:duration>
+  <gx:flyToMode>smooth</gx:flyToMode>
+  <LookAt>
+    <longitude>-105.233287</longitude>
+    <latitude>40.031512</latitude>
+    <altitude>10</altitude>
+    <heading>-27</heading>
+    <tilt>71</tilt>
+    <range>500.546801</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</gx:FlyTo>
+
+<gx:FlyTo>
+  <gx:duration>4.0</gx:duration>
+  <gx:flyToMode>smooth</gx:flyToMode>
+  <LookAt>
+    <longitude>-105.222380</longitude>
+    <latitude>40.037350</latitude>
+    <altitude>10</altitude>
+    <heading>-27</heading>
+    <tilt>71</tilt>
+    <range>500.546801</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</gx:FlyTo>
+
+</gx:Playlist>
+</gx:Tour>
+</Document>
+</kml>
